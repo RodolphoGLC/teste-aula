@@ -1,2 +1,2 @@
 # teste-aula
-teste da aula
+Este exemplo é para demonstração durante a aula
